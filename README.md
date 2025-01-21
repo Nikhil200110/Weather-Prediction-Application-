@@ -1,7 +1,5 @@
 # Weather-Prediction-Application-
 
-Here’s the explanation of your weather prediction application project in the same format as the advertising campaigns analysis:
-
 ---
 
 ### Weather Prediction Application (Python Bootcamp)
@@ -82,4 +80,3 @@ The Weather Prediction Application combines real-time data acquisition, machine 
 
 ---
 
-Let me know if you need further refinements or additions!
